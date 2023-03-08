@@ -42,4 +42,4 @@ const main = (movies, limit = movies.length) => {
     }
 }
 
-main (movies,)
+main (movies, 100)
